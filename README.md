@@ -1,5 +1,3 @@
-# Food Delivery System Summary
- 
 ## Purpose of the application 
 - The purpose is to organize the file and create a proper utilizable backend receipt generator. 
 
