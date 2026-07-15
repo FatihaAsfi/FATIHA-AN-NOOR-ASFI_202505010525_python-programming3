@@ -37,4 +37,4 @@
 6. The receipt will be displayed automatically.
 
 # App Demonstration 
-- https://youtu.be/UFOnGFOVlvs
+- ![alt text](FoodDeliverySystem-ezgif.com-video-to-gif-converter.gif)
