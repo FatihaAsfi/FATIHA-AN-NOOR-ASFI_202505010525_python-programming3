@@ -26,4 +26,4 @@ This application allows students to register IT support tickets.
 
 
 # App Demonstration 
-
+- ![alt text](Tickets.gif)
