@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IT Helpdesk Ticket Registration System
 
 ## Purpose
@@ -14,21 +13,7 @@ This application allows students to register IT support tickets.
 3. Run:python main.py
 4. Enter the required student information.
 5. The ticket will be displayed automatically.
-=======
-## Purpose of the application 
-- The purpose is to organize the file and create a proper utilizable backend receipt generator. 
 
-## Tech Stack
-- Enter customer information
-- Select food item
-- Input quantity and price
-- Choose delivery option (Yes/No)
-- Automatically calculate:
-  - Subtotal
-  - Service charge (5%)
-  - Delivery charge (RM5.00 if delivery is selected)
-  - Grand total
-- Print a formatted receipt
 
 ## Technologies Used
 
@@ -36,21 +21,9 @@ This application allows students to register IT support tickets.
 - Visual Studio Code
 - Git & GitHub
 
-## Project Structure
-- main.py
-- customer.py
-- receipt.py
-- README.md
-
 ## How to Run the Application
 
-1. Open the project folder in Visual Studio Code.
-2. Make sure Python 3 is installed.
-3. Open the terminal.
-4. Run the following command:python main.py
-5. Enter the required customer information.
-6. The receipt will be displayed automatically.
+
 
 # App Demonstration 
-- ![alt text](FoodDeliverySystem-ezgif.com-video-to-gif-converter.gif)
->>>>>>> 82b8a20f4d79f3d21a160b2c872c6865a03d02b9
+
